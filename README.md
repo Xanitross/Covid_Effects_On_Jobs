@@ -17,5 +17,5 @@ The goal of this project is to analyze the effect that the COVID-19 Pandemic had
 
 ## Data:
 - The data used in this project was pulled from the U.S. Bureau of Labor Statistics website and the CDC's COVID Data Tracker: 
-    - https://www.bls.gov/ces/data/analytical-tables.htm
+    - bls.gov/ces/data/analytical-tables.htm
     - covid.cdc.gov/covid-data-tracker
